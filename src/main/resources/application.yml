@@ -6,7 +6,7 @@ spring:
     url: jdbc:mysql://localhost:3306/tlias
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: 1234
+    password: wtd156211
   servlet:
     multipart:
       #最大单个文件大小
